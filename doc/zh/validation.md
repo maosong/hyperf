@@ -59,7 +59,7 @@ php bin/hyperf.php vendor:publish hyperf/validation
     /languages
         /en
             validation.php
-        /zh-CN
+        /zh_CN
             validation.php
 
 ```
